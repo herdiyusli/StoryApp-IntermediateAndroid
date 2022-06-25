@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">HerdiStoryApp</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="txt_register">Dont have account?</string>
+    <string name="login">Login</string>
+    <string name="register_here">Register here</string>
+    <string name="register">Register</string>
+    <string name="loginKap">LOGIN</string>
+    <string name="registerKAp">REGISTER</string>
+    <string name="name">Name</string>
+    <string name="nama_user">Nama User</string>
+    <string name="logout">Logout</string>
+    <string name="add_story">Add Story</string>
+    <string name="deskripsi_story">Deskripsi Story</string>
+    <string name="masukan_nama_anda">Masukan Nama Anda</string>
+    <string name="masukan_email_anda">Masukan Email Anda</string>
+    <string name="masukan_password">Masukan Password</string>
+    <string name="username">username</string>
+    <string name="gambar_dari_story">Gambar dari story</string>
+    <string name="camera_x">CameraX</string>
+    <string name="camera">Kamera</string>
+    <string name="gallery">Galeri</string>
+    <string name="upload">Unggah</string>
+    <string name="message">Story created successfully</string>
+    <string name="tampilan_gambar">Tampilan Gambar</string>
+    <string name="tombol_camera">tombol camera</string>
+    <string name="putar_camera">putar camera</string>
+    <string name="foto_story">foto story</string>
+    <string name="story_app_by_herdi_yusli">Story App By Herdi Yusli</string>
+    <string name="logo_app">logo app</string>
+    <string name="retry">Try Again</string>
+    <string name="title_activity_maps_story">MapsStoryActivity</string>
+    <string name="maps_story">Maps Story</string>
+
+</resources>
